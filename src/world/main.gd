@@ -12,3 +12,4 @@ func _input(event):
 		print(new_block.position)
 		get_node("World").add_child(new_block)
 				#
+"ppp"
